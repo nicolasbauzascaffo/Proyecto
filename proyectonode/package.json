@@ -1,0 +1,16 @@
+{
+  "name": "proyectonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entrypoint.js",
+  "type": "module",
+  "scripts": {
+    "start": "node entrypoint.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2"
+  }
+}
